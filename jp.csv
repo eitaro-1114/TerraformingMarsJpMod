@@ -828,192 +828,192 @@ Card/cardname_018,Text,,Methane From Titan,タイタンよりのメタン
 Card/cardname_019,Text,,Imported Hydrogen,水素の輸入
 Card/cardname_020,Text,,Research Outpost,前哨研究基地
 Card/cardname_021,Text,,Phobos Space Haven,フォボス宇宙港
-Card/cardname_022,Text,,Black Polar Dust,ブラックポーラーダスト
-Card/cardname_023,Text,,Arctic Algae,北極圏の藻類
-Card/cardname_024,Text,,Predators,プレデターズ
+Card/cardname_022,Text,,Black Polar Dust,極地への黒塵散布
+Card/cardname_023,Text,,Arctic Algae,極地の藻類
+Card/cardname_024,Text,,Predators,捕食獣
 Card/cardname_025,Text,,Space Station,宇宙ステーション
-Card/cardname_026,Text,,Eos Chasma National Park,エオスチャズマ国立公園
-Card/cardname_027,Text,,Interstellar Colony Ship,恒星間コロニー船
-Card/cardname_028,Text,,Security Fleet,セキュリティ・フリート
-Card/cardname_029,Text,,Cupola City,キュポラ市
-Card/cardname_030,Text,,Lunar Beam,ルナ・ビーム
-Card/cardname_031,Text,,Optimal Aerobraking,最適なエアロブレーキング
-Card/cardname_032,Text,,Underground City,アンダーグラウンド・シティ
-Card/cardname_033,Text,,Regolith Eaters,レゴリスイーター
+Card/cardname_026,Text,,Eos Chasma National Park,エオス谷自然公園
+Card/cardname_027,Text,,Interstellar Colony Ship,恒星間植民船
+Card/cardname_028,Text,,Security Fleet,警備艦隊
+Card/cardname_029,Text,,Cupola City,ドーム都市
+Card/cardname_030,Text,,Lunar Beam,月光収束システム
+Card/cardname_031,Text,,Optimal Aerobraking,最適化された空力ブレーキ
+Card/cardname_032,Text,,Underground City,地下都市
+Card/cardname_033,Text,,Regolith Eaters,藍色細菌
 Card/cardname_034,Text,,GHG-Producing Bacteria,GHG産生菌
-Card/cardname_035,Text,,Ants,アリ
-Card/cardname_036,Text,,Release of Inert Gases,不活性ガスの放出
-Card/cardname_037,Text,,Nitrogen-Rich Asteroid,窒素を多く含む小惑星
-Card/cardname_038,Text,,Rover Construction,ローバー・コンストラクション
-Card/cardname_039,Text,,Deimos Down,デイモス・ダウン
-Card/cardname_040,Text,,Asteroid Mining,小惑星の採掘
-Card/cardname_041,Text,,Food Factory,食品工場
-Card/cardname_042,Text,,Archaebacteria,アルカエバクテリア
-Card/cardname_043,Text,,Carbonate Processing,炭酸塩処理
+Card/cardname_035,Text,,Ants,蟻
+Card/cardname_036,Text,,Release of Inert Gases,不活性ガスの解放
+Card/cardname_037,Text,,Nitrogen-Rich Asteroid,富窒素小惑星
+Card/cardname_038,Text,,Rover Construction,ローバー建設
+Card/cardname_039,Text,,Deimos Down,ダイモス落とし
+Card/cardname_040,Text,,Asteroid Mining,小惑星採掘
+Card/cardname_041,Text,,Food Factory,食料工場
+Card/cardname_042,Text,,Archaebacteria,古細菌
+Card/cardname_043,Text,,Carbonate Processing,炭化プロセス
 Card/cardname_044,Text,,Natural Preserve,自然保護区
 Card/cardname_045,Text,,Nuclear Power,原子力発電
-Card/cardname_046,Text,,Lightning Harvest,ライトニングハーベスト
-Card/cardname_047,Text,,Algae,藻類
-Card/cardname_048,Text,,Adapted Lichen,アダプトリクエン
+Card/cardname_046,Text,,Lightning Harvest,雷電ハーベスタ
+Card/cardname_047,Text,,Algae,緑藻
+Card/cardname_048,Text,,Adapted Lichen,改良型地衣類
 Card/cardname_049,Text,,Tardigrades,クマムシ
 Card/cardname_050,Text,,Virus,ウイルス
-Card/cardname_051,Text,,Miranda Resort,ミランダリゾート
-Card/cardname_052,Text,,Fish,魚
+Card/cardname_051,Text,,Miranda Resort,ミランダ・リゾート
+Card/cardname_052,Text,,Fish,魚類
 Card/cardname_053,Text,,Lake Marineris,マリネリス湖
 Card/cardname_054,Text,,Small Animals,小動物
-Card/cardname_055,Text,,Kelp Farming,昆布の養殖
-Card/cardname_056,Text,,Mine,マイン
-Card/cardname_057,Text,,Vesta Shipyard,ベスタ・シップヤード
+Card/cardname_055,Text,,Kelp Farming,海草畑
+Card/cardname_056,Text,,Mine,マグネシウム鉱山
+Card/cardname_057,Text,,Vesta Shipyard,ヴェスタ造船
 Card/cardname_058,Text,,Beam From A Thorium Asteroid,トリウム小惑星からのビーム
-Card/cardname_059,Text,,Mangrove,マングローブ
+Card/cardname_059,Text,,Mangrove,マングローブの森
 Card/cardname_060,Text,,Trees,樹木
-Card/cardname_061,Text,,Great Escarpment Consortium,グレートエスカーペントコンソーシアム
-Card/cardname_062,Text,,Mineral Deposit,鉱床
-Card/cardname_063,Text,,Mining Expedition,鉱山探検隊
-Card/cardname_064,Text,,Mining Area,鉱区
-Card/cardname_065,Text,,Building Industries,建築業界
-Card/cardname_066,Text,,Land Claim,土地所有権
-Card/cardname_067,Text,,Mining Rights,採掘権
+Card/cardname_061,Text,,Great Escarpment Consortium,大断崖組合
+Card/cardname_062,Text,,Mineral Deposit,鉱物堆積層
+Card/cardname_063,Text,,Mining Expedition,採掘遠征
+Card/cardname_064,Text,,Mining Area,採掘地帯
+Card/cardname_065,Text,,Building Industries,建設ラッシュ
+Card/cardname_066,Text,,Land Claim,所有権主張
+Card/cardname_067,Text,,Mining Rights,鉱山採掘権
 Card/cardname_068,Text,,Sponsors,スポンサー
-Card/cardname_069,Text,,Electro Catapult,エレクトロカタパルト
-Card/cardname_070,Text,,Earth Catapult,アース・カタパルト
-Card/cardname_071,Text,,Advanced Alloys,アドバンスト・アロイ
+Card/cardname_069,Text,,Electro Catapult,電磁カタパルト
+Card/cardname_070,Text,,Earth Catapult,地球カタパルト
+Card/cardname_071,Text,,Advanced Alloys,最先端合金
 Card/cardname_072,Text,,Birds,鳥類
-Card/cardname_073,Text,,Mars University,マース大学
-Card/cardname_074,Text,,Viral Enhancers,ウイルスエンハンサー
+Card/cardname_073,Text,,Mars University,火星大学
+Card/cardname_074,Text,,Viral Enhancers,ウイルス・エンハンサ
 Card/cardname_075,Text,,Towing A Comet,コメット牽引
-Card/cardname_076,Text,,Space Mirrors,スペースミラー
+Card/cardname_076,Text,,Space Mirrors,宇宙鏡
 Card/cardname_077,Text,,Solar Wind Power,太陽風力発電
-Card/cardname_078,Text,,Ice Asteroid,アイス・アステロイド
-Card/cardname_079,Text,,Quantum Extractor,量子エクストラクタ
-Card/cardname_080,Text,,Giant Ice Asteroid,巨大な氷の小惑星
+Card/cardname_078,Text,,Ice Asteroid,氷小惑星
+Card/cardname_079,Text,,Quantum Extractor,量子抽出器
+Card/cardname_080,Text,,Giant Ice Asteroid,巨大氷小惑星
 Card/cardname_081,Text,,Ganymede Colony,ガニメデ・コロニー
-Card/cardname_082,Text,,Callisto Penal Mines,カリストペナル鉱山
-Card/cardname_083,Text,,Giant Space Mirror,巨大な宇宙鏡
-Card/cardname_084,Text,,Trans-Neptune Probe,海洋王星探査機
-Card/cardname_085,Text,,Commercial District,商業地区
-Card/cardname_086,Text,,Robotic Workforce,ロボット労働力
-Card/cardname_087,Text,,Grass,芝生
-Card/cardname_088,Text,,Heather,ヘザー
-Card/cardname_089,Text,,Peroxide Power,パーオキサイドパワー
-Card/cardname_090,Text,,Research,研究内容
+Card/cardname_082,Text,,Callisto Penal Mines,カリスト懲罰鉱山
+Card/cardname_083,Text,,Giant Space Mirror,巨大宇宙鏡
+Card/cardname_084,Text,,Trans-Neptune Probe,海王星軌道通過探査船
+Card/cardname_085,Text,,Commercial District,商業特区
+Card/cardname_086,Text,,Robotic Workforce,ロボット作業員
+Card/cardname_087,Text,,Grass,野の草花
+Card/cardname_088,Text,,Heather,ヒース
+Card/cardname_089,Text,,Peroxide Power,過酸化物発電
+Card/cardname_090,Text,,Research,研究に次ぐ研究
 Card/cardname_091,Text,,Gene Repair,遺伝子修復
-Card/cardname_092,Text,,Io Mining Industries,イオ鉱業
-Card/cardname_093,Text,,Bushes,ブッシュ
-Card/cardname_094,Text,,Mass Converter,マスコンバーター
-Card/cardname_095,Text,,Physics Complex,物理コンプレックス
+Card/cardname_092,Text,,Io Mining Industries,イオ採掘産業
+Card/cardname_093,Text,,Bushes,低木林
+Card/cardname_094,Text,,Mass Converter,質量変換機
+Card/cardname_095,Text,,Physics Complex,物理学総合研究所
 Card/cardname_096,Text,,Greenhouses,温室
-Card/cardname_097,Text,,Nuclear Zone,核兵器地帯
-Card/cardname_098,Text,,Tropical Resort,トロピカルリゾート
-Card/cardname_099,Text,,Toll Station,トールステーション
-Card/cardname_100,Text,,Fueled Generators,燃料式発電機
+Card/cardname_097,Text,,Nuclear Zone,核実験場
+Card/cardname_098,Text,,Tropical Resort,トロピカル・リゾート
+Card/cardname_099,Text,,Toll Station,税関ステーション
+Card/cardname_100,Text,,Fueled Generators,燃料発電機
 Card/cardname_101,Text,,Ironworks,鉄工所
-Card/cardname_102,Text,,Power Grid,パワーグリッド
-Card/cardname_103,Text,,Steelworks,製鉄所
-Card/cardname_104,Text,,Ore Processor,鉱石加工機
-Card/cardname_105,Text,,Earth Office,アースオフィス
-Card/cardname_106,Text,,Acquired Company,被買収企業
-Card/cardname_107,Text,,Media Archives,メディアアーカイブス
-Card/cardname_108,Text,,Open City,オープンシティ
-Card/cardname_109,Text,,Media Group,メディアグループ
-Card/cardname_110,Text,,Business Network,ビジネスネットワーク
-Card/cardname_111,Text,,Business Contacts,ビジネスコンタクト
-Card/cardname_112,Text,,Bribed Committee,賄賂を受け取った委員会
+Card/cardname_102,Text,,Power Grid,電力網
+Card/cardname_103,Text,,Steelworks,製鋼所
+Card/cardname_104,Text,,Ore Processor,鉱石処理場
+Card/cardname_105,Text,,Earth Office,地球オフィス
+Card/cardname_106,Text,,Acquired Company,企業買収
+Card/cardname_107,Text,,Media Archives,メディア・アーカイブ
+Card/cardname_108,Text,,Open City,開放都市
+Card/cardname_109,Text,,Media Group,メディア・グループ
+Card/cardname_110,Text,,Business Network,ビジネス・ネットワーク
+Card/cardname_111,Text,,Business Contacts,業務提携
+Card/cardname_112,Text,,Bribed Committee,委員会買収
 Card/cardname_113,Text,,Solar Power,太陽光発電
-Card/cardname_114,Text,,Breathing Filters,ブリージングフィルタ
+Card/cardname_114,Text,,Breathing Filters,呼吸マスク
 Card/cardname_115,Text,,Artificial Photosynthesis,人工光合成
-Card/cardname_116,Text,,Artificial Lake,人工湖
+Card/cardname_116,Text,,Artificial Lake,人造湖
 Card/cardname_117,Text,,Geothermal Power,地熱発電
-Card/cardname_118,Text,,Farming,農作業
-Card/cardname_119,Text,,Dust Seals,ダストシール
+Card/cardname_118,Text,,Farming,農場
+Card/cardname_119,Text,,Dust Seals,防塵シール
 Card/cardname_120,Text,,Urbanised Area,市街化調整区域
-Card/cardname_121,Text,,Sabotage,サボタージュ
-Card/cardname_122,Text,,Moss,モス
-Card/cardname_123,Text,,Industrial Center,産業センター
-Card/cardname_124,Text,,Hired Raiders,ハイアード・レイダーズ
-Card/cardname_125,Text,,Hackers,ハッカー
-Card/cardname_126,Text,,GHG Factories,GHGファクトリー
-Card/cardname_127,Text,,Subterranean Reservoir,地中貯留層
-Card/cardname_128,Text,,Ecological Zone,エコロジーゾーン
-Card/cardname_129,Text,,Zeppelins,ツェッペリン
-Card/cardname_130,Text,,Worms,ワーム
-Card/cardname_131,Text,,Decomposers,分解装置
-Card/cardname_132,Text,,Fusion Power,フュージョン・パワー
+Card/cardname_121,Text,,Sabotage,破壊工作
+Card/cardname_122,Text,,Moss,苔類
+Card/cardname_123,Text,,Industrial Center,工業地帯
+Card/cardname_124,Text,,Hired Raiders,雇われ襲撃者
+Card/cardname_125,Text,,Hackers,ハッカー集団
+Card/cardname_126,Text,,GHG Factories,温室効果ガス工場
+Card/cardname_127,Text,,Subterranean Reservoir,地下貯水池よりの湧出
+Card/cardname_128,Text,,Ecological Zone,生態ゾーン
+Card/cardname_129,Text,,Zeppelins,飛行船
+Card/cardname_130,Text,,Worms,ミミズ
+Card/cardname_131,Text,,Decomposers,分解者
+Card/cardname_132,Text,,Fusion Power,核融合発電
 Card/cardname_133,Text,,Symbiotic Fungus,共生菌
-Card/cardname_134,Text,,Extreme-Cold Fungus,極寒の菌類
-Card/cardname_135,Text,,Advanced Ecosystems,アドバンスト・エコシステムズ
-Card/cardname_136,Text,,Great Dam,グレートダム
+Card/cardname_134,Text,,Extreme-Cold Fungus,極寒菌
+Card/cardname_135,Text,,Advanced Ecosystems,高度な生態系
+Card/cardname_136,Text,,Great Dam,水力発電
 Card/cardname_137,Text,,Cartel,カルテル
-Card/cardname_138,Text,,Strip Mine,ストリップマイン
-Card/cardname_139,Text,,Wave Power,波力
+Card/cardname_138,Text,,Strip Mine,露天鉱床
+Card/cardname_139,Text,,Wave Power,波力発電
 Card/cardname_140,Text,,Lava Flows,溶岩流
-Card/cardname_141,Text,,Power Plant,発電所
-Card/cardname_142,Text,,Mohole Area,モホール地区
-Card/cardname_143,Text,,Large Convoy,大型コンボイ
-Card/cardname_144,Text,,Titanium Mine,チタン鉱業所
-Card/cardname_145,Text,,Tectonic Stress Power,地殻変動ストレスパワー
-Card/cardname_146,Text,,Nitrophilic Moss,親不知のコケ
+Card/cardname_141,Text,,Power Plant,火力発電
+Card/cardname_142,Text,,Mohole Area,モホール掘削エリア
+Card/cardname_143,Text,,Large Convoy,大輸送船団
+Card/cardname_144,Text,,Titanium Mine,チタン鉱山
+Card/cardname_145,Text,,Tectonic Stress Power,地殻応力発電
+Card/cardname_146,Text,,Nitrophilic Moss,好窒素苔類
 Card/cardname_147,Text,,Herbivores,草食動物
 Card/cardname_148,Text,,Insects,昆虫
 Card/cardname_149,Text,,CEO's Favorite Project,CEOのお気に入りプロジェクト
-Card/cardname_150,Text,,Anti-Gravity Technology,アンチ・グラビティ技術
+Card/cardname_150,Text,,Anti-Gravity Technology,反重力技術
 Card/cardname_151,Text,,Investment Loan,投資ローン
 Card/cardname_152,Text,,Insulation,断熱材
 Card/cardname_153,Text,,Adaptation Technology,適応技術
-Card/cardname_154,Text,,Caretaker Contract,管理人契約
-Card/cardname_155,Text,,Designed Microorganisms,デザインされた微生物
-Card/cardname_156,Text,,Standard Technology,標準技術
-Card/cardname_157,Text,,Nitrite Reducing Bacteria,亜硝酸還元菌（Nitrite Reducing Bacteria）
-Card/cardname_158,Text,,Industrial Microbes,産業用微生物
+Card/cardname_154,Text,,Caretaker Contract,管理契約
+Card/cardname_155,Text,,Designed Microorganisms,設計された微細生命体
+Card/cardname_156,Text,,Standard Technology,標準テクノロジー
+Card/cardname_157,Text,,Nitrite Reducing Bacteria,脱窒菌
+Card/cardname_158,Text,,Industrial Microbes,産業用バクテリア
 Card/cardname_159,Text,,Lichen,地衣類
-Card/cardname_160,Text,,Power Supply Consortium,電源コンソーシアム
-Card/cardname_161,Text,,Convoy From Europa,コンボイ・フロム・ヨーロッパ
-Card/cardname_162,Text,,Imported GHG,輸入GHG
-Card/cardname_163,Text,,Imported Nitrogen,輸入窒素
-Card/cardname_164,Text,,Micro-Mills,マイクロミル
-Card/cardname_165,Text,,Magnetic Field Generators,磁場発生装置
+Card/cardname_160,Text,,Power Supply Consortium,電力供給組合
+Card/cardname_161,Text,,Convoy From Europa,エウロパよりの輸送船団
+Card/cardname_162,Text,,Imported GHG,温室効果ガスの輸入
+Card/cardname_163,Text,,Imported Nitrogen,窒素の輸入
+Card/cardname_164,Text,,Micro-Mills,小型風車
+Card/cardname_165,Text,,Magnetic Field Generators,地場発生装置
 Card/cardname_166,Text,,Shuttles,シャトル
-Card/cardname_167,Text,,Import of Advanced GHG,先進的なGHGの輸入
-Card/cardname_168,Text,,Windmills,風車
-Card/cardname_169,Text,,Tundra Farming,ツンドラ・ファーミング
-Card/cardname_170,Text,,Aerobraked Ammonia Asteroid,エアロブレーキ付きアンモニア小惑星
-Card/cardname_171,Text,,Magnetic Field Dome,磁場ドーム
-Card/cardname_172,Text,,Pets,ペット
-Card/cardname_173,Text,,Protected Habitats,保護されている生息地
-Card/cardname_174,Text,,Protected Valley,保護された谷
+Card/cardname_167,Text,,Import of Advanced GHG,改良型温室効果ガスの輸入
+Card/cardname_168,Text,,Windmills,風力発電
+Card/cardname_169,Text,,Tundra Farming,ツンドラ開墾
+Card/cardname_170,Text,,Aerobraked Ammonia Asteroid,空中燃焼するアンモニア小惑星
+Card/cardname_171,Text,,Magnetic Field Dome,電磁場ドーム
+Card/cardname_172,Text,,Pets,愛玩動物
+Card/cardname_173,Text,,Protected Habitats,保護生息域
+Card/cardname_174,Text,,Protected Valley,保全指定渓谷
 Card/cardname_175,Text,,Satellites,人工衛星
-Card/cardname_176,Text,,Noctis Farming,ノクティス農園
+Card/cardname_176,Text,,Noctis Farming,ノクティス開墾
 Card/cardname_177,Text,,Water-Splitting Plant,水分解プラント
-Card/cardname_178,Text,,Heat Trappers,ヒートトラッパー
-Card/cardname_179,Text,,Soil Factory,ソイルファクトリー
+Card/cardname_178,Text,,Heat Trappers,放熱トラッパー
+Card/cardname_179,Text,,Soil Factory,土壌工場
 Card/cardname_180,Text,,Fuel Factory,燃料工場
 Card/cardname_181,Text,,Ice Cap Melting,氷冠の融解
-Card/cardname_182,Text,,Corporate Stronghold,コーポレート・ストラングホールド
-Card/cardname_183,Text,,Biomass Combustors,バイオマス燃焼器
+Card/cardname_182,Text,,Corporate Stronghold,企業の拠点
+Card/cardname_183,Text,,Biomass Combustors,バイオマス発電
 Card/cardname_184,Text,,Livestock,家畜
-Card/cardname_185,Text,,Olympus Conference,オリンパスカンファレンス
-Card/cardname_186,Text,,Rad-Suits,ラッドスーツ
-Card/cardname_187,Text,,Aquifer Pumping,帯水層揚水
+Card/cardname_185,Text,,Olympus Conference,オリンポス会議
+Card/cardname_186,Text,,Rad-Suits,放射能防護服
+Card/cardname_187,Text,,Aquifer Pumping,帯水層くみ上げ
 Card/cardname_188,Text,,Flooding,洪水
-Card/cardname_189,Text,,Energy Saving,省エネルギー
-Card/cardname_190,Text,,Local Heat Trapping,局所熱トラップ
+Card/cardname_189,Text,,Energy Saving,省エネルギー対策
+Card/cardname_190,Text,,Local Heat Trapping,地熱トラップ
 Card/cardname_191,Text,,Permafrost Extraction,永久凍土の抽出
 Card/cardname_192,Text,,Invention Contest,発明コンテスト
 Card/cardname_193,Text,,Plantation,プランテーション
 Card/cardname_194,Text,,Power Infrastructure,電力インフラ
-Card/cardname_195,Text,,Indentured Workers,年季奉公者
-Card/cardname_196,Text,,Lagrange Observatory,ラグランジュ天文台
-Card/cardname_197,Text,,Terraforming Ganymede,ガニメデのテラフォーミング
-Card/cardname_198,Text,,Immigration Shuttles,入国管理局シャトル
-Card/cardname_199,Text,,Restricted Area,制限区域
+Card/cardname_195,Text,,Indentured Workers,契約労働者
+Card/cardname_196,Text,,Lagrange Observatory,ラグランジュ観測所
+Card/cardname_197,Text,,Terraforming Ganymede,テラフォーミング・ガニメデ
+Card/cardname_198,Text,,Immigration Shuttles,移民シャトル
+Card/cardname_199,Text,,Restricted Area,立ち入り制限区
 Card/cardname_200,Text,,Immigrant City,移民都市
-Card/cardname_201,Text,,Energy Tapping,エナジータップ
-Card/cardname_202,Text,,Underground Detonations,地中爆
+Card/cardname_201,Text,,Energy Tapping,盗電
+Card/cardname_202,Text,,Underground Detonations,地下核実験施設
 Card/cardname_203,Text,,Soletta,ソレッタ
-Card/cardname_204,Text,,Technology Demonstration,技術デモ
-Card/cardname_205,Text,,Rad-Chem Factory,ラドケムファクトリー
-Card/cardname_206,Text,,Special Design,特別デザイン
-Card/cardname_207,Text,,Medical Lab,メディカルラボ
+Card/cardname_204,Text,,Technology Demonstration,テクノロジーのデモンストレーション
+Card/cardname_205,Text,,Rad-Chem Factory,放射線化学工場
+Card/cardname_206,Text,,Special Design,特化デザイン
+Card/cardname_207,Text,,Medical Lab,医療研究所
 Card/cardname_208,Text,,AI Central,AIセントラル
 Card/cardname_P01,Text,,Allied Bank,アライド銀行
 Card/cardname_P02,Text,,Aquifer Turbines,アキファータービン
@@ -2165,7 +2165,7 @@ Menus/DefaultGameName,Text,,{0}'s Game,{0}のゲーム
 Menus/Delete,Text,,DELETE,デリート
 Menus/Discard,Text,,DISCARD,破棄
 Menus/Done,Text,,DONE,完了
-Menus/DraftVariant,Text,,DRAFT VARIANT <color=#5CF5CC>{0}</color>,ドラフトバリアント <color=#5CF5CC>{0}</color>。
+Menus/DraftVariant,Text,,DRAFT VARIANT <color=#5CF5CC>{0}</color>,ドラフトバリアント <color=#5CF5CC>{0}</color>
 Menus/Each,Text,,each,各々
 Menus/Elysium,Text,,ELYSIUM,エリジウム
 Menus/ElysiumMap,Text,,Elysium,エリシオン
@@ -2280,7 +2280,7 @@ Menus/PreferredBoardColorNotRandomDesc,Text,,This color will be selected if poss
 Menus/PreferredBoardColorRandom,Text,,Random <color=#5CF5CC>{0}</color>,ランダム <color=#5CF5CC>{0}</color>。
 Menus/PreferredBoardColorRandomDesc,Text,,A color will be picked randomly,カラーはランダムで1色
 Menus/Prelude,Text,,Prelude,プレリュード
-Menus/PreludePhase,Text,,Prelude <color=#5CF5CC>{0}</color>,プレリュード <color=#5CF5CC>{0}</color>.
+Menus/PreludePhase,Text,,Prelude <color=#5CF5CC>{0}</color>,プレリュード <color=#5CF5CC>{0}</color>
 Menus/PreludePhaseInfo,Text,,A starting phase with a new layer of strategy,戦略に新しいレイヤーを提供する開始フェイズ
 Menus/Profile,Text,,PROFILE,プロフィール
 Menus/ProfileAchievements,Text,,ACHIEVEMENTS,アチーブメント
@@ -2877,7 +2877,7 @@ Shop/Owned,Text,,Owned,所有
 Shop/RestorePurchaseButton,Text,,RESTORE PURCHASE,買い戻す
 Shop/RulesButton,Text,,Rules,ルール
 Shop/Title,Text,,SHOP,ショップ
-Shop/genericShopButton,Text,,Check the expansion,膨張を確認する
+Shop/genericShopButton,Text,,Check the expansion,拡張を確認する
 Shop/genericShopButtonPlurals,Text,,Check the expansions,エクスパンション（拡張）の確認
 Shop/hellasDescription,Text,,"""Explore the other face of Mars through two additional maps, each with their own specificities and strategies, thanks to the Hellas & Elysium DLC. The taming of the Red Planet continues! 
 
