@@ -1,2 +1,3 @@
 # TerraformingMarsJpMod
 PC版テラフォーミング・マーズのJPファイル
+Documents\PythonProj\TeraMarsJPフォルダ内のjp.csvを上書きしてください
